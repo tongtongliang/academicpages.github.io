@@ -5,6 +5,7 @@ com/tongtongliang/homepage/blob/65b2899a8328855f565815572878591764484856/files/T
 date: 2009-10-01
 paperurl: 'http://academicpages.github.io/files/The Steenrod Squares Encode the Data of Homotopy Coherent Structures (2).pdf'
 
+---
 
 [Download paper here](http://tongtongliang.github.io/homepage/files/The Steenrod Squares Encode the Data of Homotopy Coherent Structures (2).pdf)
 

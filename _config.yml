@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Tongtong Liang"
-  avatar           : "profile.png"
+  avatar           : "Mypicture.png"
   bio              : 
   location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "11711505@mail.sustech.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

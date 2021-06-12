@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+title: "The Steenrod Squares Encodes the Data of Homotopy Coherent Structure"
+collection: Undergraduate thesis
+com/tongtongliang/homepage/blob/65b2899a8328855f565815572878591764484856/files/The%20Steenrod%20Squares%20Encode%20the%20Data%20of%20Homotopy%20Coherent%20Structures%20(2).pdf
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+paperurl: 'http://academicpages.github.io/files/The Steenrod Squares Encode the Data of Homotopy Coherent Structures (2).pdf'
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://tongtongliang.github.io/homepage/files/The Steenrod Squares Encode the Data of Homotopy Coherent Structures (2).pdf)
+
